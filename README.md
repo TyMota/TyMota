@@ -26,3 +26,7 @@
 ---
 
 ⚡ *"Aprendizado constante é o que move minha jornada como desenvolvedor."*
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TyMota&theme=blue-green)](https://github.com/TyMota)
+
+
