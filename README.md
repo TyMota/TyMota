@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá gente! 
 
-<!--
-**TyMota/TyMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Thiago  Silva Mota
 
-Here are some ideas to get you started:
+🎓 Estudante de **Engenharia de Software**  
+💻 Focado em **desenvolvimento backend com Python**  
+🚀 Buscando oportunidade de **estágio** para crescer na área de tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-mota-b4819b2a9)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://www.linkedin.com/in/thiago-mota-b4819b2a9](https://github.com/TyMota))
+
+---
+
+⚡ *"Aprendizado constante é o que move minha jornada como desenvolvedor."*
