@@ -3,7 +3,7 @@
 ## Meu nome é Thiago  Silva Mota
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Focado em **desenvolvimento backend com Python**  
+💻 Focado em **desenvolvimento backend com Java**  
 🚀 Buscando oportunidade de **estágio** para crescer na área de tecnologia  
 
 ---
