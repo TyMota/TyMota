@@ -3,7 +3,7 @@
 ## Meu nome é Thiago  Silva Mota
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Focado em **desenvolvimento backend com Java**  
+💻 Focado em **desenvolvimento backend**  
 🚀 Buscando oportunidade de **estágio** para crescer na área de tecnologia  
 
 ---
@@ -21,7 +21,7 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-mota-b4819b2a9)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://www.linkedin.com/in/thiago-mota-b4819b2a9](https://github.com/TyMota))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/TyMota])
 
 ---
 
